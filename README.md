@@ -5,7 +5,7 @@ This here is a collection of all the recent data analysis projects I completed/a
 
 ## SQL
 
-| Project | Description | Skills Used |
+| Project | Description | Functions Used |
 | --- | --- | --- |
 | [Northwind Traders](https://github.com/tubako/northwind-trades#readme) | Answer the business question of who gets the bonus for the highest sales amount by analyzing the company database | SELECT, ORDER BY, JOINS, GROUP BY, HAVING, Aggregate functions |
 
