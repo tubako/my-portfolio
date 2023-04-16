@@ -20,5 +20,5 @@ This here is a collection of all the recent data analysis projects I completed/a
 
 | Project | Description | Libraries Used | Status |
 | --- | --- | --- | --- |
-| miyav | miyav | pandas | In Progress |
+| [Movie industry](https://github.com/tubako/movie-industry) | miyav | pandas | In Progress |
 
