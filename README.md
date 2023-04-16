@@ -8,7 +8,7 @@ This here is a collection of all the recent data analysis projects I completed/a
 | Project | Description | Functions Used | Status |
 | --- | --- | --- | --- |
 | [Northwind Traders](https://github.com/tubako/northwind-trades#readme) | Answer the business question of who gets the bonus for the highest sales amount by analyzing the company database | SELECT, ORDER BY, JOINS, GROUP BY, HAVING, Aggregate functions | Completed |
-
+| [The SQL Murder Mystery](https://github.com/tubako/the-sql-murder-mystery) | Solve an intriguing murder case by analyzing an SQL database | SELECT, JOINS, WHERE, LIKE | Completed |
 
 ## R
 
