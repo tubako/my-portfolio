@@ -16,6 +16,9 @@ This here is a collection of all the recent data analysis projects I completed/a
 | --- | --- | --- | --- |
 | [Bellabeat Case Study](https://github.com/tubako/bellabeat-case-study#readme) | Improve Bellabeat's future marketing strategies by analyzing other smart devices' usage data | tidyverse, skimr, snakecase etc. | In Progress |
 
+## Python
 
-
+| Project | Description | Libraries Used | Status |
+| --- | --- | --- | --- |
+| miyav | miyav | pandas | In Progress |
 
