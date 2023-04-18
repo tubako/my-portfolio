@@ -1,9 +1,13 @@
 # My Portfolio :cat2:
 
 Hi! :wave: 
-This here is a collection of all the recent data analysis projects I completed/am completing that are worthy of sharing. Please keep in mind that this is a work in progress. :sparkles:
+This here is a collection of all the recent data analysis projects I have completed/am completing that are worthy of sharing. Please keep in mind that this is a work in progress. :sparkles:
 
 ## SQL
+
+Intermediate SQL knowledge
+
+Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
 
 | Project | Description | Functions Used | Status |
 | --- | --- | --- | --- |
@@ -20,5 +24,5 @@ This here is a collection of all the recent data analysis projects I completed/a
 
 | Project | Description | Libraries Used | Status |
 | --- | --- | --- | --- |
-| [Movie industry](https://github.com/tubako/movie-industry) | miyav | pandas | In Progress |
+| [Movie industry](https://github.com/tubako/movie-industry) | An analysis of the [Movie Industry](https://www.kaggle.com/datasets/danielgrijalvas/movies) dataset available on Kaggle to check for correlations between certain numeric movie features. | pandas, seaborn, numpy | In Progress |
 
