@@ -5,9 +5,7 @@ This here is a collection of all the recent data analysis projects I have comple
 
 ## SQL
 
-Intermediate SQL knowledge
-
-Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
+Intermediate SQL knowledge (Joins, common table expressions, aggregations, subqueries, datetime functions, datatype conversion, text and string manipulation...)
 
 | Project | Description | Functions Used | Status |
 | --- | --- | --- | --- |
