@@ -18,7 +18,7 @@ Intermediate SQL knowledge (Joins, common table expressions, aggregations, subqu
 | Project | Description | Libraries Used | Status |
 | --- | --- | --- | --- |
 | 🎬[Movie industry](https://github.com/tubako/movie-industry) | An analysis of the [Movie Industry](https://www.kaggle.com/datasets/danielgrijalvas/movies) dataset available on Kaggle to check for correlations between certain numeric movie features. | pandas, numpy, matplotlib, seaborn | In Progress |
-| 📈[Stock Market Analysis](https://github.com/tubako/stock-analysis) | A general analysis of various car brands' stocks between the years 2012-2017 | pandas, pandas_datareader, yfinance, numpy, matplotlib | In progress |
+| 📈[Car Stock Market Analysis](https://github.com/tubako/stock-analysis) | A general look on the stocks of various car brands between the years 2013-2023 | pandas, pandas_datareader, yfinance, numpy, matplotlib | In progress |
 
 
 ## R
