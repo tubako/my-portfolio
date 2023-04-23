@@ -1,7 +1,7 @@
 # My Portfolio :cat2:
 
 Hi! :wave: 
-This here is a collection of all the recent data analysis projects I have completed/am completing that are worthy of sharing. Please keep in mind that this is a work in progress. :sparkles:
+This here is a collection of all the recent data analysis projects I have completed/am completing. Please keep in mind that this is a work in progress. :sparkles:
 
 ## SQL
 
