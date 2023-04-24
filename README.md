@@ -14,6 +14,8 @@ Intermediate SQL knowledge (Joins, common table expressions, aggregations, subqu
 
 
 ## Python
+---
+Data cleaning, visualization, analysis
 
 | Project | Description | Libraries Used | Status |
 | --- | --- | --- | --- |
