@@ -27,5 +27,5 @@ Data cleaning, visualization, analysis
 
 | Project | Description | Packages Used | Status |
 | --- | --- | --- | --- |
-| 🍃[Bellabeat Case Study](https://github.com/tubako/bellabeat-case-study#readme) | Improve Bellabeat's future marketing strategies by analyzing other smart devices' usage data | tidyverse, skimr, snakecase etc. | In Progress |
+| 🍃[Bellabeat Case Study](https://github.com/tubako/bellabeat-case-study#readme) | Improve Bellabeat's future marketing strategies by analyzing other smart devices' usage data | tidyverse, skimr, snakecase etc. | Completed |
 
